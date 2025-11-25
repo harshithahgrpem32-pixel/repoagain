@@ -7,5 +7,6 @@ public class Simple2 {
 public void  simple2()
 {
 System.out.println("hi supreetha");	
+  System.out.println("hi shiva");
 }
 }
