@@ -9,6 +9,7 @@ public class simple {
 		System.out.println("test as hari");
 		System.out.println("hi modify");
 		System.out.println("good");
+		System.out.println("rakesh ");
 		
 		
 	}
