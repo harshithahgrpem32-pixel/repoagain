@@ -8,6 +8,7 @@ public class simple {
 	{
 		System.out.println("test as hari");
 		System.out.println("testing done");
+		System.out.println("testing done by rakesh");
 	}
 
 }
