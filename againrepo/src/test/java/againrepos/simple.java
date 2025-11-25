@@ -7,6 +7,7 @@ public class simple {
 	public void simples()
 	{
 		System.out.println("test as hari");
+		System.out.println("hi modify");
 	}
 
 }
